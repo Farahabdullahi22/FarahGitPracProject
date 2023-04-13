@@ -8,5 +8,10 @@ public class BrachPractice {
 		System.out.println("  creating new branches  ...");
 		
 	}
+	
+	public void addition() {
+		System.out.println(1+4);
+		
+	}
 
 }
